@@ -29,7 +29,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Pronob<br><br>🎓 CSE Student at Daffodil International University<br>💻 Passionate about software development and technology<br>🌱 Currently learning Data Structures & Algorithms, Web Development, and exploring new technologies<br>🚀 Building projects to improve my coding and problem-solving skills<br>📫 Always learning, always building</p>
+<p data-importer="text" align="left">🎓 CSE Student at Daffodil International University<br>💻 Passionate about software development and technology<br>🌱 Currently learning Data Structures & Algorithms, Web Development, and exploring new technologies<br>🚀 Building projects to improve my coding and problem-solving skills<br>📫 Always learning, always building</p>
 
 ###
 
