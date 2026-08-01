@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 data-importer="text" align="left">Hello there!!! 👋</h1>
+<h1 data-importer="text" align="left"> Hello there!!! 👋</h1>
 
 ###
 
@@ -11,7 +11,6 @@
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <a href="https://x.com/Weirdpotato008" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
@@ -29,7 +28,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 CSE Student at Daffodil International University<br>💻 Passionate about software development and technology<br>🌱 Currently learning Data Structure & Algorithm, Web Development, and exploring new technologies<br>🚀 Building projects to improve my coding and problem-solving skills<br>📫 Always learning, always building</p>
+<p data-importer="text" align="left">🎓 CSE Student at Daffodil International University<br>💻 Passionate about software development and technology<br>🌱 Currently learning Data Structure & Algorithm, Web Development, and exploring new technologies<br>🚀 Building projects to improve my coding and problem-solving skills<br>📫 Always learning, always building.</p>
 
 ###
 
