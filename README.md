@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 data-importer="text" align="left">Hello there! 👋</h1>
+<h1 data-importer="text" align="left">Hello there!!! 👋</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 CSE Student at Daffodil International University<br>💻 Passionate about software development and technology<br>🌱 Currently learning Data Structures & Algorithms, Web Development, and exploring new technologies<br>🚀 Building projects to improve my coding and problem-solving skills<br>📫 Always learning, always building</p>
+<p data-importer="text" align="left">🎓 CSE Student at Daffodil International University<br>💻 Passionate about software development and technology<br>🌱 Currently learning Data Structure & Algorithm, Web Development, and exploring new technologies<br>🚀 Building projects to improve my coding and problem-solving skills<br>📫 Always learning, always building</p>
 
 ###
 
