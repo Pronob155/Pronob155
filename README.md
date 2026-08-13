@@ -60,7 +60,7 @@
 
 <h3 data-importer="text" align="left">🔥  Stats :</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pronob155&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Pronob155&theme=github-dark&hide_border=true&_=1" alt="GitHub Streak" />
 </div>
 
 ###
