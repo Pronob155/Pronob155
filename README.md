@@ -74,10 +74,5 @@
 </picture>
 </div>
 
-<div align="center">
 
-*"Never giving up is my magic."*
-
-</div>
-
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:9E155C,50:2b56d6,100:0e1a44&height=100&section=footer](https://kommodo.ai/i/GwrkMRB3mR5EE0KKwouJ)" />
+<img width="100%" src="https://github.com/Pronob155/Pronob155/blob/main/BlackClover3.jpg?raw=true" />
