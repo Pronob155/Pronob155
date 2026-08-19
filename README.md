@@ -73,3 +73,11 @@
   <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Pronob155/Pronob155/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
+
+<div align="center">
+
+*"Never giving up is my magic."*
+
+</div>
+
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:9E155C,50:2b56d6,100:0e1a44&height=100&section=footer](https://kommodo.ai/i/GwrkMRB3mR5EE0KKwouJ)" />
