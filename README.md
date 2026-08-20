@@ -153,7 +153,7 @@ As long as I live, there are infinity chances
 
 <br>
 
-<img src="https://github.com/Pronob155/Pronob155/blob/main/BlackClover3.jpg?raw=true" width="100%"/>
+<img src="https://github.com/Pronob155/Pronob155/blob/main/BlackClover3.jpg?raw=true" width="100%" height="140px" style="object-fit: cover;"/>
 
 </div>
 
