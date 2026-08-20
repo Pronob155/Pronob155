@@ -1,78 +1,171 @@
-<br clear="both">
-
-<h1 data-importer="text" align="left"> Hello there!!! 👋</h1>
-
-###
-
-<br clear="both">
-
-<img data-importer="image" align="right" height="222" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://x.com/Weirdpotato008" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/s.das_pronob/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/sdas.pronob.7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<h3 data-importer="text" align="left">👩‍💻  About </h3>
-
-###
-
-<p data-importer="text" align="left">🎓 CSE Student at Daffodil International University<br>💻 Passionate about software development and technology<br>🌱 Currently learning Data Structure & Algorithm, Web Development, and exploring new technologies<br>🚀 Building projects to improve my coding and problem-solving skills<br>📫 Always learning, always building.</p>
-
-###
-
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
-
-###
-
-<h3 data-importer="text" align="left">🔥  Stats :</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pronob155&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0074D9,100:001f3f&height=200&section=header&text=PRONOB%20DAS&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20Developer%20%7C%20Learner&descAlignY=60&descSize=18" width="100%"/>
+
+<br>
+
+<img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="200"/>
+
+# 🏴‍☠️ Ahoy!
+
+### ⚓ CSE Student • Developer • Problem Solver
+
+*"Set sail. Build. Learn. Repeat."* 🌊
+
+<br>
+
+<a href="https://x.com/Weirdpotato008">
+<img src="https://img.shields.io/badge/X-001f3f?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/s.das_pronob/">
+<img src="https://img.shields.io/badge/Instagram-001f3f?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/sdas.pronob.7">
+<img src="https://img.shields.io/badge/Facebook-001f3f?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 </div>
 
-###
-### ◈ Contribution Snake
+---
+
+## 🏝️ About Me
+
+```text
+🎓 CSE Student at Daffodil International University
+💻 Passionate about Software Development & Technology
+🌱 Currently learning Data Structures & Algorithms
+☕ Working with C, Java, Python & Web Technologies
+🚀 Building projects to improve my coding & problem-solving skills
+⚓ Exploring the vast sea of programming
+🏴‍☠️ Dreaming big and continuously improving
+```
+
+---
+
+## 🧭 My Journey
 
 <div align="center">
+
+| 🗺️ Grand Line | 💻 Developer Journey              |
+| -------------- | --------------------------------- |
+| 🏝️ East Blue  | Started Programming               |
+| 🌊 Grand Line  | Learning DSA & OOP                |
+| ⚔️ New World   | Building Real Projects            |
+| 👑 Final Goal  | Become a Better Software Engineer |
+
+</div>
+
+---
+
+## ⚔️ My Arsenal
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+
+### 🌐 Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## 🏴‍☠️ Featured Projects
+
+<div align="center">
+
+### 📚 OpengovtBD
+
+A communication platform between government and citizen.
+
+**⚔️ Tech:** `HTML` `CSS` `JAVA`
+
+</div>
+---
+
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+⚔️ **Data Structures & Algorithms**
+
+☕ **Java & Object-Oriented Programming**
+
+🌐 **Web Development**
+
+🧠 **Problem Solving**
+
+🔧 **Git & GitHub**
+
+</div>
+
+---
+
+## 📊 Bounty & Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pronob155&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=Pronob155&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronob155&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🐍 Sailing Through Contributions
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pronob155/Pronob155/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pronob155/Pronob155/output/github-contribution-grid-snake.svg" />
-  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Pronob155/Pronob155/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pronob155/Pronob155/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pronob155/Pronob155/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Pronob155/Pronob155/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
 </div>
 
+---
 
-<img width="100%" height="140px" style="object-fit: contain;" src="https://github.com/Pronob155/Pronob155/blob/main/BlackClover3.jpg?raw=true">
+
+## 
+<div align="center">
+
+「 Surpass Your Limits 」 
+
+As long as I live, there are infinity chances
+
+<br>
+
+<img src="https://github.com/Pronob155/Pronob155/blob/main/BlackClover3.jpg?raw=true" width="100%"/>
+
+</div>
+
+---
+
+
+<br>
+
+<div align="center">
+
+### 🏴‍☠️ Thanks for visiting! ⚓
+
+**Until we meet again on the Grand Line...**
+
+</div>
