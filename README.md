@@ -113,7 +113,7 @@ A communication platform between government and citizen.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pronob155&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
 
 <img src="https://streak-stats.demolab.com?user=Pronob155&theme=tokyonight&hide_border=true" height="180"/>
 
@@ -121,11 +121,7 @@ A communication platform between government and citizen.
 
 <br>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pronob155&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 ---
 
@@ -149,7 +145,7 @@ A communication platform between government and citizen.
 
 「 Surpass Your Limits 」 
 
-As long as I live, there are infinity chances
+As long as I live, there are infinite chances
 
 <br>
 
