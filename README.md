@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0074D9,100:001f3f&height=200&section=header&text=PRONOB%20DAS&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20Developer%20%7C%20Learner&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0074D9,100:001f3f&height=200&section=header&text=PRONOB%20DAS&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Explorer%20%7C%20Learner%20%7C%20Dreamer&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
