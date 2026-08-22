@@ -147,10 +147,12 @@ A communication platform between government and citizen.
 
 As long as I live, there are infinite chances
 
-<br>
-
-<img src="https://github.com/Pronob155/Pronob155/blob/main/BlackClover3.jpg?raw=true" width="100%" height="140px" style="object-fit: cover;"/>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pronob155/Pronob155/main/one-piece.gif"
+       width="40%"
+       height="160px"
+       style="object-fit: cover;"
+       alt="One Piece"/>
 </div>
 
 ---
