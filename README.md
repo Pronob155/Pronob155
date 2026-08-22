@@ -95,9 +95,9 @@ A communication platform between government and citizen.
 
 <div align="center">
 
-⚔️ **Data Structures & Algorithms**
+⚔️ **Java & Object-Oriented Programming**
 
-☕ **Java & Object-Oriented Programming**
+☕ **React & TypeScript**
 
 🌐 **Web Development**
 
