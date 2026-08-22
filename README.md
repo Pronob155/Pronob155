@@ -83,12 +83,12 @@
 
 ### 📚 OpengovtBD
 
-A communication platform between government and citizen.
+A communication platform between government and citizens.
 
 **⚔️ Tech:** `HTML` `CSS` `JAVA`
 
 </div>
----
+
 
 
 ## 🌱 Currently Learning
