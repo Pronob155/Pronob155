@@ -38,25 +38,9 @@
 ⚓ Exploring the vast sea of programming
 🏴‍☠️ Dreaming big and continuously improving
 ```
-
 ---
 
-## 🧭 My Journey
-
-<div align="center">
-
-| 🗺️ Grand Line | 💻 Developer Journey              |
-| -------------- | --------------------------------- |
-| 🏝️ East Blue  | Started Programming               |
-| 🌊 Grand Line  | Learning DSA & OOP                |
-| ⚔️ New World   | Building Real Projects            |
-| 👑 Final Goal  | Become a Better Software Engineer |
-
-</div>
-
----
-
-## ⚔️ My Arsenal
+## ⚔️ Tech Stack
 
 <div align="center">
 
@@ -88,7 +72,7 @@ A communication platform between government and citizens.
 
 </div>
 
-
+---
 
 ## 🌱 Currently Learning
 
