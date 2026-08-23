@@ -161,8 +161,8 @@ As long as I live, there are infinite chances
 
 <div align="center">
 
-### 🏴‍☠️ Thanks for visiting! ⚓
+###  Thanks for visiting! 
 
-**Until we meet again on the Grand Line...**
+
 
 </div>
