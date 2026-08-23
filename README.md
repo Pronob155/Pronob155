@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="200"/>
 
-# 🏴‍☠️ Ahoy!
+#  Ahoy!
 
 ### ⚓ CSE Student • Developer • Problem Solver
 
