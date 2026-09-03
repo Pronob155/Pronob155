@@ -64,11 +64,21 @@
 
 <div align="center">
 
-### 📚 OpengovtBD
 
-A communication platform between government and citizens.
+<tr>
+<td width="100%">
 
-**⚔️ Tech:** `HTML` `CSS` `JAVA`
+**[🏛️ OpenGovtBD](https://github.com/Pronob155/OpenGovtBD)**
+
+Government–Citizen engagement platform for Bangladesh — complaint tracking, public discussions, official polls, a suggestion box, and role-based dashboards for Citizens, Officers & Admins.
+
+<img src="https://img.shields.io/badge/Java%2017-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Spring%20Boot%203-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Thymeleaf-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Chart.js-0891B2?style=flat-square" />
+
+</td>
+</tr>
+
+
+<br/>
 
 </div>
 
