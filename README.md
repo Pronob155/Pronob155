@@ -150,13 +150,8 @@ As long as I live, there are infinite chances
 
 ---
 
-
 <br>
-
 <div align="center">
-
-###  Thanks for visiting! 
-
-
-
+  
+###  Thanks for visiting!!! 
 </div>
