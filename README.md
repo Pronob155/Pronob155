@@ -32,7 +32,7 @@
 
 ```text
 🎓 CSE Student at Daffodil International University
-💻 Passionate about Software Development & Technology
+💻 Passionate about Software Development, AI & Technology
 ☕ Working with C, Java, Python & Web Technologies
 🚀 Building projects to improve my coding & problem-solving skills
 ⚓ Exploring the vast sea of programming
